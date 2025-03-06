@@ -57,4 +57,6 @@ Three data tables were used in this study, namely:
 
 5. Run programme 5 to generate the final output to be sent to the study coordinator. Outputs created by this programme for the study are available in the output folder.
 
+6. Detailed step-by-step explanation of the R codes for meta-analysis is available from https://adrienneylc.github.io/ADHD-Rx-Self-Harm/.
+
 
